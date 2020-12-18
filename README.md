@@ -1,6 +1,7 @@
 # Mémoire de Master 2 : Deep Learning pour le NLP : application à la Chimie
 
-à IFPEN a consisté à : 
+
+Le stage a consisté à : 
 
  - Analyser des publications et brevets
  
