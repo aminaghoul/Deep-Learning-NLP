@@ -7,6 +7,7 @@ Ce repository contient :
 - [Les slides de présentation de stage](https://github.com/aminaghoul/Deep-Learning-NLP/blob/main/PresentationStage.pptx) 
  
 Le but du stage a été d’étudier l’apport de méthodes de traitement naturel du langage (ou NLP) pour aider à déterminer la brevetabilité d’une invention ou sa liberté d’exploitation. Pour ce faire, l'objectif a été de trouver des méthodes d’apprentissage profond performantes, pour les tâches de reconnaissance d’entités nommées et d’extraction de relation, afin de pouvoir extraire de l’information contenue dans des brevets appartenant au domaine de la catalyse hétérogène. 
+
 Le mémoire comporte les parties suivantes :  
   - La présentation de l’entreprise IFPEN, ainsi que du contexte du stage
   
